@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC006_view_basket_failed</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>9566b952-af6b-4df9-91d4-cddf34d90def</testCaseGuid>
-</TestCaseEntity>
